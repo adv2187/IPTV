@@ -1,7 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,Canal 26 HD
+#EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" group-title="NOTICIAS" ,A24 HD
+https://edge2-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_2499968=10001.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" tvg-logo="data:image/webp;base64,UklGRuAEAABXRUJQVlA4TNQEAAAvLAALEPVQsq3t2B5lCln/fT/vh9i2bdtOz7ZtJ2XbZitJq2zbthnjud/nfd9/BE+hZWMQ1WWr6qopuO61ag52R7Zs26Zd2bZt27Ztm092cm2bsbHPXnvOMfN9cdi2bSBR6f3+G7/ligJAAIpt23a2+wXbtl1/YHurzTXb5nT2Tdl6E+AjF7isKKVaYKjjJN0yVDujjwH3h9En5toNd9dQZ1KqZQUvq8xjJiDZglcvxZANhF6RxN1QDYbamb4rKz6iX5Kh9pD0DdFJ+m2oE6xeVjytlxZoqIUkvUe8jL4aam3RI8ExZLQSCXcV8RO6ldFkRcpoSphrQJKMulK6vhGIr4JQN5Il6WMO32CnlOnLI6kTSZP0If/NVTtk7i6K0QskT1JLoYt/YhhzRyGmjDNwkZm9TBilzhdiA6FLIYFx4wAg5z6L2ubKQJ6zYrsZqtvMuMuNY3Ipexi3A8p40GkedYh9uztFLwNDN1Uovi+Y0VsAzV5ztf9o+MMOTBuIy2612WqO2s9aM350AEbdBS6KtgKj2QDqf+QeV9R1k0VWNiZsQTubLFF7o2XmdgEAKWWzxegNgAvCUfeNloycQpo0nG/U3mLOqobAJrme7PUX5n2gjAAwdpwvI+htHghD5+Ypm6j9z/5lgRwYTfDe8B0BcG7kqPigE2dFz4VhvCbovC4A9Fmdx+xR8dicINRwF7xn1AbgUQeEC0MpfB2gxyaPOCCcEwXQ6kUecELFn/aspvMuISR9Lf9XWLGzCgEwsqKR5U0sbp1Frczv9H9OD+X3AYA9ahDucQVZEzd7oeH/3ODD+FEEZLWGMzcRUbttIzzg5D9OykSdN1twYCmCoVYG1PZIM/oQ7naj4yOet8JN/1naghWQgyQdi3RxKMI5kaxLQKM+Zj9ljgKA0GXDnYtyXPZsNxvhlcftRnjSliMKGDHD4jau90XQLwAwuhGQaxH2L5ttZqP2+0NnUXuj5QxaAEDKyDX+CP8DCLjHhjvv9tEWc1Tcs5o9axDOiwD2+DG2P4x1r8sAMOwmoWNO0/v4RMXrfMHReSOcmj5C9Z+j9n0uACB0hfm2uQyf4WkbVHzClk674KDSES4NGWFON8LtHgPAcIcMNdGh3zKP2UfFTZYzvR/ga2GzBX8AqPSXj4VzIwFgqJXFTisKa/MsDzqOipstWNWw/wAY3O+MpV+tj2d1PYcXcJ8zKu5dCYCXPaM2qc5X7nJD5Z9/tB9wRnB9xpoK+wFI+lZ2X5g31BGh7CE3+qAJn5IOAMNd9D5taqSVVrkicP814Vs9KXwNgMBoovee5N4CODsKTfgWT5q8DQCS6zX6hXnvDTUHODMFTXT7A4/Zc0xu8t8FAAJqi/feF9l/wcy9a/6KDXGzIY5XPnBfH4fruniOy+GntAI2o57CZxdjeaYbj9xpuOleZu5YriC5yz6UjYsi6UUuIKmpyPmSw3xKKy/n/roSI+lDWr8a75rVVDHqTYikTxm9od7dqEoINSbCqIv5+vmoaZMkQtcTYO5uSi/bRy91vECmW/xTTG8xt7ngecF5zATEWujypTK3/60YSPptqFP5rsr1sbNxKYbaRLi3ERjXzNzuvLgsn2z+a8UpdYt/Mdxd5joZfWaE0Vdm3QF5SOhsSt2K7J1qHxk=" group-title="NOTICIAS" ,Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,Canal 26 HD
-http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF: -1 tvg-id="ELTRECETV.ar" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s176-c-k-c0x00ffffff-no-rj" ,ElTrece HD
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF: -1 tvg-id="MITELEFE.ar" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=1Gw97V7X4vqapEYIAF-z6PIvV-LwnIo4P" ,Telefe HD
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF: -1 tvg-id="LN+.ar" tvg-language="Spanish" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png" group-title="NOTICIAS" ,LN+ HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654151433/ei/qQSYYvyDKdiSobIP1YKE8As/ip/186.39.109.121/id/GZEwdVV5DTY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC4ZnUVd2_QmoDEWI2frBNDax5vTgrey1n3MMzg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGPmx_RlEmABD3QJt5I4ib1vT5oqTKZXSGtrLXveiuuQCIQCxc-Zmdp2w0qSF7TWjnsQzztSLec9gicpIKYyhrwO5Og%3D%3D/file/index.m3u8
+
+#EXTINF: -1 tvg-id="TN.ar" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSxTjnYnmnIeNb-z_xyTubci-xLdnfm_ZI59F2NQ=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS" ,TN Noticias
+https://edge2-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_2499968=10001.m3u8
+
+#EXTINF: -1 tvg-id="CronicaTV.ar" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=1umt650H6jKt9rsKjEOa2MkUVnF8PVav5" group-title="NOTICIAS" ,Cronica TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654158753/ei/QSGYYpvdHYXSwATiq7joAw/ip/186.39.21.167/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC0g6vH3ZhNOdqPOvOwX5yJrY9d8RfjD2S_JWfg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJtB8nr9JsjDQ8_ck7S4s1jAcrDHCU2npN3zCGAvf_DSAiBHymccjVHX94yowGvXivXBBkqk16HGuvf5IFoisACSzA%3D%3D/file/index.m3u8
+
+#EXTINF: -1 tvg-id="DWEspañol.es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspañol.es" group-title="INTERNACIONAL" ,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF: -1 tvg-id="CartoonNetwork.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=13jKNzXjSStmTBkaGEQsYW7tgDXMeVJBa" group-title="INFANTIL" ,CartoonNetwork
+https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork-avc1_1972000=10002.m3u8
+
+#EXTINF: -1 tvg-id="DiscoveryKidsHD.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=1oIDNzp5HHxxgv3184uvzhPeZxW3EV20_" group-title="INFANTIL" ,Discovery Kids HD
+https://edge2-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids-avc1_3000000=10004.m3u8
+
+#EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=" group-title="INFANTIL" ,Disney Junior HD
+https://edge2-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr-avc1_3000000=10004.m3u8
+
+#EXTINF: -1 tvg-id="DiscoveryHD.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=12c-Jcg5_jzm5Zf0yTIaXr7gXUHPxs9hx" group-title="DOCUMENTALES" ,Discovery Channel HD
+https://edge2-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10004.m3u8
+
+#EXTINF: -1 tvg-id="DiscoveryTurboHD.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=15ec7OAC5YkCX-R3xCXlnQeQ8nyYsk6mC" group-title="DOCUMENTALES" ,Discovery TURBO
+https://edge2-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10011.m3u8
+
+#EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd" group-title="ADULTOS" ,Venus HD
+https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus-avc1_1532000=10004.m3u8
