@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="https://github.com/adv2187/IPTV/blob/main/A24.png?raw=true" ,Canal 26 HD
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
