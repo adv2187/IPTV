@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/840051c9-3372-42ad-80e4-21c5d8f015a8:SCL/variant/ce563c014bc1e04c56eadc113791b41a/bandwidth/850000.m3u8
+https://edge2-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS"  tvg-logo="http://drive.google.com/uc?export=view&id=1buGDROYszVVYLMRPis4gMHoyHviIDuaZ" ,Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
