@@ -25,19 +25,19 @@ https://edge2-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1 tvg-id="CartoonNetwork.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=13jKNzXjSStmTBkaGEQsYW7tgDXMeVJBa" ,CartoonNetwork
-https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork-avc1_1972000=10002.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryKidsHD.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1oIDNzp5HHxxgv3184uvzhPeZxW3EV20_" ,Discovery Kids HD
-https://edge2-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids-avc1_3000000=10004.m3u8
+https://edge2-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=" ,Disney Junior HD
-https://edge2-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr-avc1_3000000=10004.m3u8
+#EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Ingles" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=" ,Disney Junior HD
+https://edge2-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=12c-Jcg5_jzm5Zf0yTIaXr7gXUHPxs9hx" ,Discovery Channel HD
-https://edge2-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-avc1_3900000=10004.m3u8
+https://edge2-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryTurboHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=15ec7OAC5YkCX-R3xCXlnQeQ8nyYsk6mC" ,Discovery TURBO
-https://edge2-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10011.m3u8
+https://edge2-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd",Venus
 https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
