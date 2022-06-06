@@ -27,13 +27,16 @@ https://edge2-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF: -1 tvg-id="DWEspañol.es" tvg-language="Spanish" group-title="INTERNACIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspañol.es" ,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+#EXTINF: -1 tvg-id="ESPNar.es" tvg-language="Spanish" group-title="DEPORTE" tvg-logo="http://drive.google.com/uc?export=view&id=1CmDmTAlTMICjfDDgexlPTqs1ZT4EFlSY" ,ESPN Ar
+https://ed3.zorrohd.nl/live/flowitc7vb9.m3u8
+
 #EXTINF: -1 tvg-id="CartoonNetwork.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=13jKNzXjSStmTBkaGEQsYW7tgDXMeVJBa" ,CartoonNetwork
 https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryKidsHD.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1oIDNzp5HHxxgv3184uvzhPeZxW3EV20_" ,Discovery Kids HD
 https://edge2-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Ingles" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=" ,Disney Junior HD
+#EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Ingles" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1WeTROs44LTbFwIGLP01a_3egMD4uloT7" ,Disney Junior HD
 https://edge2-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=12c-Jcg5_jzm5Zf0yTIaXr7gXUHPxs9hx" ,Discovery Channel HD
