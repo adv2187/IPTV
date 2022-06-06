@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1cxnrkl2v7QM_xu52iD5bvCktFa9Lsy_p" ,America HD
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" group-title="GENERALES" tvg-logo="http://drive.google.com/uc?export=view&id=1cxnrkl2v7QM_xu52iD5bvCktFa9Lsy_p" ,America HD
 https://edge2-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
@@ -21,7 +21,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654151433/ei/q
 #EXTINF: -1 tvg-id="TN.ar" tvg-language="Spanish"  group-title="NOTICIAS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSxTjnYnmnIeNb-z_xyTubci-xLdnfm_ZI59F2NQ=s88-c-k-c0x00ffffff-no-rj" ,TN Noticias
 hhttps://edge2-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
-#EXTINF: -1 tvg-id="CronicaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1umt650H6jKt9rsKjEOa2MkUVnF8PVav5" ,Cronica TV
+#EXTINF: -1 tvg-id="CronicaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" group-title="GENERALES tvg-logo="http://drive.google.com/uc?export=view&id=1umt650H6jKt9rsKjEOa2MkUVnF8PVav5" ,Cronica TV
 https://edge2-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 
 #EXTINF: -1 tvg-id="DWEspañol.es" tvg-language="Spanish" group-title="INTERNACIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspañol.es" ,DW Español
