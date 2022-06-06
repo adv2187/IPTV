@@ -48,6 +48,9 @@ https://edge2-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTu
 #EXTINF: -1 tvg-id="MTV.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=1ujROOqaXCxeYtRwlIt5MP5_Sk09SHAip" ,MTV Español
 https://edge2-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 
+#EXTINF: -1 tvg-id="QMusicaHD.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=18MfBFa36vLk76eW8ad3-Pd-EY4lpFvjf" ,QMusica HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
 #EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd",Venus
 https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
 
