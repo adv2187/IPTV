@@ -1,2 +1,3 @@
 https://telefullenvivo.com/
---para sacar losd datos ingresamos a INPECCIONAR y luego vamos a NETWORK y copiamos la "copy link address" que terminan en .m3u8
+https://www.ver-television.online/
+--para sacar los datos ingresamos a INPECCIONAR y luego vamos a NETWORK y copiamos la "copy link address" que terminan en .m3u8--
