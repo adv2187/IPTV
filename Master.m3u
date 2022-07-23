@@ -7,7 +7,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/a24_hls.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS"  tvg-logo="http://drive.google.com/uc?export=view&id=1buGDROYszVVYLMRPis4gMHoyHviIDuaZ" ,Canal 26 HD
-http://200.115.193.177/live/26hd-720/.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ELTRECETV.ar" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s176-c-k-c0x00ffffff-no-rj" ,ElTrece HD
 https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
