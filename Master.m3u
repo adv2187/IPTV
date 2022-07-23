@@ -49,7 +49,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/Nat
 https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="QMusicaHD.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=18MfBFa36vLk76eW8ad3-Pd-EY4lpFvjf" ,QMusica HD
-https://cvi.cdn.rcs.net.ar/mnp/Qmusica_hls/playlist.m3u8
+https://edge10-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 
 #EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd" ,Venus
 https://edge-live15-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.m3u8
