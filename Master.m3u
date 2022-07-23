@@ -4,7 +4,7 @@
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
-https://cvi.cdn.rcs.net.ar/mnp/a24_hls.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-language="Spanish" group-title="NOTICIAS"  tvg-logo="http://drive.google.com/uc?export=view&id=1buGDROYszVVYLMRPis4gMHoyHviIDuaZ" ,Canal 26 HD
 https://cvi.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
@@ -16,16 +16,16 @@ https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="LN+.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png" ,LN+ HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654151433/ei/qQSYYvyDKdiSobIP1YKE8As/ip/186.39.109.121/id/GZEwdVV5DTY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC4ZnUVd2_QmoDEWI2frBNDax5vTgrey1n3MMzg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGPmx_RlEmABD3QJt5I4ib1vT5oqTKZXSGtrLXveiuuQCIQCxc-Zmdp2w0qSF7TWjnsQzztSLec9gicpIKYyhrwO5Og%3D%3D/file/index.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/LN_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TN.ar" tvg-language="Spanish"  group-title="NOTICIAS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSxTjnYnmnIeNb-z_xyTubci-xLdnfm_ZI59F2NQ=s88-c-k-c0x00ffffff-no-rj" ,TN Noticias
-hhttps://edge2-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/TN_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CronicaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1umt650H6jKt9rsKjEOa2MkUVnF8PVav5" ,Cronica TV
-https://edge2-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/CronicaTV_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ESPNar.es" tvg-language="Spanish" group-title="DEPORTE" tvg-logo="http://drive.google.com/uc?export=view&id=1CmDmTAlTMICjfDDgexlPTqs1ZT4EFlSY" ,ESPN Ar
-https://ed3.zorrohd.nl/live/flowitc7vb9.m3u8
+https://ed7.zorrohd2.nl/live/flowitc82eo.m3u8
 
 #EXTINF: -1 tvg-id="FoxHD.es" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1zj-xzyCr1pUelRG9oqTURXnGaHpQlRVz" ,FOX-Star HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
@@ -34,31 +34,28 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channe
 https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 #EXTINF: -1 tvg-id="DisneyJuniorHD.es" tvg-language="Ingles" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1WeTROs44LTbFwIGLP01a_3egMD4uloT7" ,Disney Junior HD
-https://edge2-sl.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
-
-#EXTINF: -1 tvg-id="DiscoveryKidsHD.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1oIDNzp5HHxxgv3184uvzhPeZxW3EV20_" ,Discovery Kids HD
-https://edge2-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=12c-Jcg5_jzm5Zf0yTIaXr7gXUHPxs9hx" ,Discovery Channel HD
-https://edge2-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="DiscoveryTurboHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=15ec7OAC5YkCX-R3xCXlnQeQ8nyYsk6mC" ,Discovery TURBO
-https://edge2-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="NatGeoHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=1oSrOWO0064vcOzaEA6PuwFXwCOtgKxc_" ,NatGeo HD
-https://edge3-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.m3u8
 
 #EXTINF: -1 tvg-id="MTV.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=1ujROOqaXCxeYtRwlIt5MP5_Sk09SHAip" ,MTV Español
-https://edge2-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="QMusicaHD.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=18MfBFa36vLk76eW8ad3-Pd-EY4lpFvjf" ,QMusica HD
-https://edge-live16-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD-avc1_3000000=10004-2374033488695223.mp4
+https://cvi.cdn.rcs.net.ar/mnp/Qmusica_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd" ,Venus
-https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus.m3u8
+https://edge-live15-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.m3u8
 
 #EXTINF: -1 tvg-id="Playboy.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1QBr0gXWu8-7iFZWzF_RFp_4VzQcw5qGm" ,Playboy 
-https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+https://edge-live31-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.m3u8
 
 #EXTINF: -1 tvg-id="SexTreme.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1gSxNYoBH_U8s54mYFrcz2j3yUq3dPc9y" ,SexTreme 
-https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.m3u8
