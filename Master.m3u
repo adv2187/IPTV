@@ -52,10 +52,10 @@ https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 https://edge10-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 
 #EXTINF: -1 tvg-id="VENUS.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1xOzWc8RayBG5ogxZvBD8pG3yTAzIhRdd" ,Venus
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.m3u8
+https://edge-live15-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 
 #EXTINF: -1 tvg-id="Playboy.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1QBr0gXWu8-7iFZWzF_RFp_4VzQcw5qGm" ,Playboy 
-https://edge-live31-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.m3u8
+https://edge-live31-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
 
 #EXTINF: -1 tvg-id="SexTreme.es" tvg-language="Spanish" group-title="ADULTOS" tvg-logo="http://drive.google.com/uc?export=view&id=1gSxNYoBH_U8s54mYFrcz2j3yUq3dPc9y" ,SexTreme 
-https://edge-live12-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
