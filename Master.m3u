@@ -13,7 +13,7 @@ http://200.115.193.177/live/26hd-720/.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF: -1 tvg-id="MITELEFE.ar" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1Gw97V7X4vqapEYIAF-z6PIvV-LwnIo4P" ,Telefe HD
-https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/track_2_2500/playlist.m3u8
 
 #EXTINF: -1 tvg-id="FoxHD.es" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1zj-xzyCr1pUelRG9oqTURXnGaHpQlRVz" ,FOX-Star HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
