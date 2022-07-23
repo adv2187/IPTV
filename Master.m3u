@@ -15,9 +15,6 @@ https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="MITELEFE.ar" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1Gw97V7X4vqapEYIAF-z6PIvV-LwnIo4P" ,Telefe HD
 https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
-#EXTINF: -1 tvg-id="FoxHD.es" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1zj-xzyCr1pUelRG9oqTURXnGaHpQlRVz" ,FOX-Star HD
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
 #EXTINF: -1 tvg-id="LN+.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png" ,LN+ HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654151433/ei/qQSYYvyDKdiSobIP1YKE8As/ip/186.39.109.121/id/GZEwdVV5DTY.1/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC4ZnUVd2_QmoDEWI2frBNDax5vTgrey1n3MMzg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGPmx_RlEmABD3QJt5I4ib1vT5oqTKZXSGtrLXveiuuQCIQCxc-Zmdp2w0qSF7TWjnsQzztSLec9gicpIKYyhrwO5Og%3D%3D/file/index.m3u8
 
@@ -27,11 +24,11 @@ hhttps://edge2-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias
 #EXTINF: -1 tvg-id="CronicaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1umt650H6jKt9rsKjEOa2MkUVnF8PVav5" ,Cronica TV
 https://edge2-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 
-#EXTINF: -1 tvg-id="DWEspañol.es" tvg-language="Spanish" group-title="INTERNACIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspañol.es" ,DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF: -1 tvg-id="ESPNar.es" tvg-language="Spanish" group-title="DEPORTE" tvg-logo="http://drive.google.com/uc?export=view&id=1CmDmTAlTMICjfDDgexlPTqs1ZT4EFlSY" ,ESPN Ar
 https://ed3.zorrohd.nl/live/flowitc7vb9.m3u8
+
+#EXTINF: -1 tvg-id="FoxHD.es" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1zj-xzyCr1pUelRG9oqTURXnGaHpQlRVz" ,FOX-Star HD
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 #EXTINF: -1 tvg-id="CartoonNetwork.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=13jKNzXjSStmTBkaGEQsYW7tgDXMeVJBa" ,CartoonNetwork
 https://edge3.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
