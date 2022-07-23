@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1cxnrkl2v7QM_xu52iD5bvCktFa9Lsy_p" ,America HD
-https://edge2-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
 https://cvi.cdn.rcs.net.ar/mnp/a24_hls.m3u8
@@ -10,7 +10,7 @@ https://cvi.cdn.rcs.net.ar/mnp/a24_hls.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF: -1 tvg-id="ELTRECETV.ar" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s176-c-k-c0x00ffffff-no-rj" ,ElTrece HD
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="MITELEFE.ar" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1Gw97V7X4vqapEYIAF-z6PIvV-LwnIo4P" ,Telefe HD
 https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
