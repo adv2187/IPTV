@@ -43,7 +43,7 @@ https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="NatGeoHD.es" tvg-language="Spanish" group-title="DOCUMENTALES" tvg-logo="http://drive.google.com/uc?export=view&id=1oSrOWO0064vcOzaEA6PuwFXwCOtgKxc_" ,NatGeo HD
-https://dtvott-abc.akamaized.net/dash_live_1169/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1169/playlist.m3u8
 
 #EXTINF: -1 tvg-id="MTV.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=1ujROOqaXCxeYtRwlIt5MP5_Sk09SHAip" ,MTV Español
 https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
