@@ -48,6 +48,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/Nat
 #EXTINF: -1 tvg-id="MTV.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=1ujROOqaXCxeYtRwlIt5MP5_Sk09SHAip" ,MTV Español
 https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF: -1 tvg-id="QMusicaHD.es" tvg-language="Spanish" group-title="MUSICA" tvg-logo="http://drive.google.com/uc?export=view&id=18MfBFa36vLk76eW8ad3-Pd-EY4lpFvjf" ,QMusica HD
 https://edge10-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 
