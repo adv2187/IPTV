@@ -1,5 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1cxnrkl2v7QM_xu52iD5bvCktFa9Lsy_p" ,America HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
