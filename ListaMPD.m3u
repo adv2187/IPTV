@@ -2,5 +2,6 @@
 
 #EXTINF:-1  tvg-group=”CATEGORIA”, Telefe 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key= {“keys”: [{“kty”: “oct”,“k”: “MDhiZjljMTZkNjQ2YzUwNmMzYmFmNDYyZGM0OTgwMGM=”,“kid”: “MzU5MjFkNjEyM2MzZjJmY2ZmYzg0NGQ5MDI4MGMyM2E=”}],“type”: “temporary”}
+#KODIPROP:inputstream.adaptive.license_key= {“keys”: [{“kty”: “oct”,“k”: “MGMwgTO0MGZyYDNmFmYzMmNwUzY2QjNkZTMjljZihDM=”,“kid”: “E2MyMGM4IDM5QGN0gzYmZ2YmJjZzM2MyEjNkFjM5UzM=”}],“type”: “temporary”}
 CLEARKEY https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+
