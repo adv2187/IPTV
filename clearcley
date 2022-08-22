@@ -1,0 +1,10 @@
+{
+“keys”: [
+{
+“kty”: “oct”,
+“k”: “AQUI VA EL K”,
+“kid”: “AQUI EL KID”
+}
+],
+“type”: “temporary”
+}
