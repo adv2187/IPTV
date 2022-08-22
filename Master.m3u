@@ -30,7 +30,7 @@ https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF: -1 tvg-id="StarHD.es" tvg-language="Spanish" group-title="ENTRETENIMIENTO" tvg-logo="http://drive.google.com/uc?export=view&id=1zj-xzyCr1pUelRG9oqTURXnGaHpQlRVz" ,FOX-Star HD
 chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-#EXTINF: -1 tvg-id="LosSimpsonLA" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=" ,Los Simpsons Latino
+#EXTINF: -1 tvg-id="LosSimpsonLA" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=1etR52Va199WbXxICyYn0kRAFQr4vn3mj" ,Los Simpsons Latino
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="CartoonNetwork.es" tvg-language="Spanish" group-title="INFANTIL" tvg-logo="http://drive.google.com/uc?export=view&id=13jKNzXjSStmTBkaGEQsYW7tgDXMeVJBa" ,CartoonNetwork
