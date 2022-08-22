@@ -1,4 +1,8 @@
+#EXTM3U
+  
 #EXTINF:-1  tvg-group=”CATEGORIA”, Telefe 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.licence_type=
+#KODIPROP:inputstream.license_key=
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cvattv.com/c/?&u=aHR0cHM6Ly9lZGdlLWxpdmUxNi1oci5jdmF0dHYuY29tLmFyL2xpdmUvYzNlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2VuY18yQS9UZWxlZmVIRC5tcGQ=&kid=MzU5MjFkNjEyM2MzZjJmY2ZmYzg0NGQ5MDI4MGMyM2E=&key=MDhiZjljMTZkNjQ2YzUwNmMzYmFmNDYyZGM0OTgwMGM=
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
