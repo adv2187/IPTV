@@ -1,8 +1,0 @@
-#EXTM3U
-  
-#EXTINF:-1  tvg-group=”CATEGORIA”, Telefe 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.licence_type=
-#KODIPROP:inputstream.license_key=
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
