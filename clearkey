@@ -2,8 +2,8 @@
 “keys”: [
 {
 “kty”: “oct”,
-“k”: “AQUI VA EL K”,
-“kid”: “AQUI EL KID”
+“k”: “MGMwgTO0MGZyYDNmFmYzMmNwUzY2QjNkZTMjljZihDM=”,
+“kid”: “E2MyMGM4IDM5QGN0gzYmZ2YmJjZzM2MyEjNkFjM5UzM=”
 }
 ],
 “type”: “temporary”
