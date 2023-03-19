@@ -1,16 +1,11 @@
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1  tvg-group=”CATEGORIA”, Telefe 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.licence_type=clearkey
-#KODIPROP:inputstream.license_key=https://raw.githubusercontent.com/adv2187/IPTV/main/clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1cxnrkl2v7QM_xu52iD5bvCktFa9Lsy_p" ,America HD
+https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
+#EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
+https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 
-
-#EXTINF:-1  tvg-group=”CATEGORIA”, Telefe2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key= {“keys”: [{“kty”: “oct”,“k”: “MGMwgTO0MGZyYDNmFmYzMmNwUzY2QjNkZTMjljZihDM=”,“kid”: “E2MyMGM4IDM5QGN0gzYmZ2YmJjZzM2MyEjNkFjM5UzM=”}],“type”: “temporary”}
-CLEARKEY https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd
-
+#EXTINF:-1 tvg-id="Canal 13"
+#EXTTVLCOPT:network-caching=1000
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
