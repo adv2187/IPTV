@@ -6,6 +6,6 @@ https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u
 #EXTINF:-1 tvg-id="A24.ar" tvg-language="Spanish" group-title="NOTICIAS" tvg-logo="http://drive.google.com/uc?export=view&id=1i0y9soJpmvQHvP0-HdCj4Bkq9yZPxK8c" ,A24 HD
 https://cecsagal.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13"
-#EXTTVLCOPT:network-caching=1000
+#EXTINF:114 tvg-id="Canal 13"
+#EXTVLCOPT:network-caching=1000
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
